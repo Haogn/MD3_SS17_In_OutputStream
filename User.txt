@@ -1,0 +1,3 @@
+User{id=1, nameUser='Hoang', password='1234', status=true}
+User{id=2, nameUser='Tam', password='4567', status=true}
+User{id=3, nameUser='Linh', password='78910', status=true}
